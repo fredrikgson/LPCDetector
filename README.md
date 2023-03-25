@@ -9,3 +9,6 @@ A LPC (legendary pub crawl) is when all 13 nations are visited on the same night
 
 #### Why?
 This is a silly little project that saves at most a couple of minutes of looking through the nations website. I wrote this script mostly to brush up on my web scraping skills in preparation for my Bachelor's thesis.
+
+#### Example
+![alt text](https://github.com/fredrikgson/LPCDetector/blob/main/demo_example.png)
